@@ -1,0 +1,72 @@
+.container{
+	height:600px;
+	width:700px;
+	border: 1px solid black;
+	position: absolute;
+	top:1px;
+	left:1px;
+}
+
+.encabezado{
+	height:50px;
+	width:700px;
+	background-color: #FACC2E;
+	border-bottom: 1px solid black;
+	position:absolute;
+}
+
+.antes{
+	height:510px;
+	width:200px;
+	border-right: 1px solid black;
+	float:left;
+	position:absolute;
+	top:51px;
+}
+
+.monopoly{
+	height:510px;
+	width:296px;
+	position:absolute;
+	top:51px;
+	left:202px;
+	padding-right: 5px;
+
+}
+
+.ahora{
+	height:510px;
+	width:200px;
+	border-left: 1px solid black;
+	float:right;
+	margin-top:50px;
+}
+
+.bottom{
+	height:40px;
+	width:700px;
+	background-color: #FACC2E;
+	border-top: 1px solid black;
+	position:absolute;	
+	top:559px;
+}
+
+p{
+	text-align: justify;
+	margin: 0px 10px 10px 10px;
+}
+
+h4,h3,h2{
+	text-align: center;
+	margin-top:10px;
+}
+
+.img1{
+	position:absolute;
+	bottom:10px;
+}
+
+.img2{
+	position:absolute;
+	bottom:50px;
+}
